@@ -8,6 +8,9 @@ Curated list of software resilience libraries and clients, making your applicati
 Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 ### Go
+[Backoff](https://github.com/cenkalti/backoff) ![Stars](https://img.shields.io/github/stars/cenkalti/backoff) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/cenkalti/backoff?logo=github) <br>
+Backoff is an exponential backoff algorithm in Go 
+
 [gobreaker](https://github.com/sony/gobreaker) ![Stars](https://img.shields.io/github/stars/sony/gobreaker) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/sony/gobreaker?logo=github) <br>
 gobreaker is a circuit Breaker implemented in Go
 
