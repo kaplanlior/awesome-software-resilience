@@ -12,6 +12,9 @@ Polly is a .NET resilience and transient-fault-handling library that allows deve
 go-resiliency has Resiliency patterns for golang. Based in part on Hystrix, Semian, and others.
 
 ### Java
+[failsafe](https://github.com/failsafe-lib/failsafe) ![Stars](https://img.shields.io/github/stars/failsafe-lib/failsafe) <br>
+Failsafe is a Fault tolerance and resilience patterns for the JVM. Failsafe is a lightweight, zero-dependency library for handling failures in Java 8+. It has a concise API for handling everyday use cases and the flexibility to handle everything else. Failsafe works by wrapping executable logic with one or more resilience policies, which can be combined and composed as needed.
+
 [resilience4j](https://github.com/resilience4j/resilience4j) ![Stars](https://img.shields.io/github/stars/resilience4j/resilience4j) ![GitHub Latest Release)](https://img.shields.io/github/v/release/resilience4j/resilience4j?logo=github) <br>
 Resilience4j is a fault tolerance library designed for Java8 and functional programming.
 
