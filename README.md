@@ -25,6 +25,10 @@ Resilience4j is a fault tolerance library designed for Java8 and functional prog
 [Opossum](https://github.com/nodeshift/opossum) ![Stars](https://img.shields.io/github/stars/nodeshift/opossum) ![GitHub Latest Release)](https://img.shields.io/github/v/release/nodeshift/opossum?logo=github) <br>
 Opossum is a Node.js circuit breaker that executes asynchronous functions and monitors their execution status. When things start failing, opossum plays dead and fails fast. If you want, you can provide a fallback function to be executed when in the failure state.
 
+### Python
+[Tenacity](https://github.com/jd/tenacity) ![Stars](https://img.shields.io/github/stars/jd/tenacity) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/jd/tenacity?logo=github) <br>
+Tenacity is a retrying library for Python.
+
 ### Ruby
 [Semian](https://github.com/Shopify/semian) ![Stars](https://img.shields.io/github/stars/Shopify/semian) ![GitHub Latest Release)](https://img.shields.io/github/v/release/Shopify/semian?logo=github) <br>
 semian is a Resiliency toolkit for Ruby for failing fast
