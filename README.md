@@ -8,6 +8,9 @@ Curated list of software resilience libraries and clients, making your applicati
 Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 ### Go
+[gobreaker](https://github.com/sony/gobreaker) ![Stars](https://img.shields.io/github/stars/sony/gobreaker) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/sony/gobreaker?logo=github) <br>
+gobreaker is a circuit Breaker implemented in Go
+
 [go-resiliency](https://github.com/eapache/go-resiliency) ![Stars](https://img.shields.io/github/stars/eapache/go-resiliency) ![GitHub Latest Release)](https://img.shields.io/github/v/release/eapache/go-resiliency?logo=github) <br>
 go-resiliency has Resiliency patterns for golang. Based in part on Hystrix, Semian, and others.
 
