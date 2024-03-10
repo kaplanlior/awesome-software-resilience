@@ -11,6 +11,9 @@ Polly is a .NET resilience and transient-fault-handling library that allows deve
 [go-resiliency](https://github.com/eapache/go-resiliency) ![Stars](https://img.shields.io/github/stars/eapache/go-resiliency) ![GitHub Latest Release)](https://img.shields.io/github/v/release/eapache/go-resiliency?logo=github) <br>
 go-resiliency has Resiliency patterns for golang. Based in part on Hystrix, Semian, and others.
 
+### Java
+[resilience4j](https://github.com/resilience4j/resilience4j) ![Stars](https://img.shields.io/github/stars/resilience4j/resilience4j) ![GitHub Latest Release)](https://img.shields.io/github/v/release/resilience4j/resilience4j?logo=github) <br>
+Resilience4j is a fault tolerance library designed for Java8 and functional programming.
 
 ### JavaScript
 [Opossum](https://github.com/nodeshift/opossum) ![Stars](https://img.shields.io/github/stars/nodeshift/opossum) ![GitHub Latest Release)](https://img.shields.io/github/v/release/nodeshift/opossum?logo=github) <br>
