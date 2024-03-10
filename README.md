@@ -26,6 +26,9 @@ Resilience4j is a fault tolerance library designed for Java8 and functional prog
 Opossum is a Node.js circuit breaker that executes asynchronous functions and monitors their execution status. When things start failing, opossum plays dead and fails fast. If you want, you can provide a fallback function to be executed when in the failure state.
 
 ### Python
+[Backoff](https://github.com/litl/backoff) ![Stars](https://img.shields.io/github/stars/litl/backoff) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/litl/backoff?logo=github) <br>
+Backoff is a Python library providing function decorators for configurable backoff and retry 
+
 [Tenacity](https://github.com/jd/tenacity) ![Stars](https://img.shields.io/github/stars/jd/tenacity) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/jd/tenacity?logo=github) <br>
 Tenacity is a retrying library for Python.
 
