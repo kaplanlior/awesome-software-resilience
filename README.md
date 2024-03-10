@@ -11,6 +11,10 @@ Polly is a .NET resilience and transient-fault-handling library that allows deve
 [Opossum](https://github.com/nodeshift/opossum) ![Stars](https://img.shields.io/github/stars/nodeshift/opossum) ![GitHub Latest Release)](https://img.shields.io/github/v/release/nodeshift/opossum?logo=github) <br>
 Opossum is a Node.js circuit breaker that executes asynchronous functions and monitors their execution status. When things start failing, opossum plays dead and fails fast. If you want, you can provide a fallback function to be executed when in the failure state.
 
+### Ruby
+[Semian](https://github.com/Shopify/semian) ![Stars](https://img.shields.io/github/stars/Shopify/semian) ![GitHub Latest Release)](https://img.shields.io/github/v/release/Shopify/semian?logo=github) <br>
+semian is a Resiliency toolkit for Ruby for failing fast
+
 ### TypeScript
 [Cockatiel](https://github.com/connor4312/cockatiel) ![Stars](https://img.shields.io/github/stars/connor4312/cockatiel) ![GitHub Latest Release)](https://img.shields.io/github/v/release/connor4312/cockatiel?logo=github) <br>
 Cockatiel is a resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Polly
