@@ -24,6 +24,9 @@ Failsafe is a Fault tolerance and resilience patterns for the JVM. Failsafe is a
 [resilience4j](https://github.com/resilience4j/resilience4j) ![Stars](https://img.shields.io/github/stars/resilience4j/resilience4j) ![GitHub Latest Release)](https://img.shields.io/github/v/release/resilience4j/resilience4j?logo=github) <br>
 Resilience4j is a fault tolerance library designed for Java8 and functional programming.
 
+[spring-retry](https://github.com/spring-projects/spring-retry) ![Stars](https://img.shields.io/github/stars/spring-projects/spring-retry) ![GitHub Latest Release)](https://img.shields.io/github/v/release/spring-projects/spring-retry?logo=github) <br>
+Spring-retry provides declarative retry support for Spring applications. It is used in Spring Batch, Spring Integration, and others. Imperative retry is also supported for explicit usage.
+
 ### JavaScript
 [Opossum](https://github.com/nodeshift/opossum) ![Stars](https://img.shields.io/github/stars/nodeshift/opossum) ![GitHub Latest Release)](https://img.shields.io/github/v/release/nodeshift/opossum?logo=github) <br>
 Opossum is a Node.js circuit breaker that executes asynchronous functions and monitors their execution status. When things start failing, opossum plays dead and fails fast. If you want, you can provide a fallback function to be executed when in the failure state.
