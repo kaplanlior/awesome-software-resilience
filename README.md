@@ -54,6 +54,9 @@ Tenacity is a retrying library for Python.
 semian is a Resiliency toolkit for Ruby for failing fast
 
 ### TypeScript
+[axios-retry](https://github.com/softonic/axios-retry) ![Stars](https://img.shields.io/github/stars/softonic/axios-retry) ![GitHub Latest Release)](https://img.shields.io/github/v/release/connor4312/cockatiel?logo=github) <br>
+axios-retry is an Axios plugin that intercepts failed requests and retries them whenever possible.
+
 [Cockatiel](https://github.com/connor4312/cockatiel) ![Stars](https://img.shields.io/github/stars/connor4312/cockatiel) ![GitHub Latest Release)](https://img.shields.io/github/v/release/connor4312/cockatiel?logo=github) <br>
 Cockatiel is a resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Polly
 
