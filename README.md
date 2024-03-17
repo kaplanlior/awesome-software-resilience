@@ -14,6 +14,9 @@ Backoff is an exponential backoff algorithm in Go
 [gobreaker](https://github.com/sony/gobreaker) ![Stars](https://img.shields.io/github/stars/sony/gobreaker) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/sony/gobreaker?logo=github) <br>
 gobreaker is a circuit Breaker implemented in Go
 
+[go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) ![Stars](https://img.shields.io/github/stars/grpc-ecosystem/go-grpc-middleware) ![GitHub Latest Release)](https://img.shields.io/github/v/release/eapache/go-resiliency?logo=github) <br>
+go-grpc-middleware has support for interceptor chaining, auth, logging, retries and more. 
+
 [go-resiliency](https://github.com/eapache/go-resiliency) ![Stars](https://img.shields.io/github/stars/eapache/go-resiliency) ![GitHub Latest Release)](https://img.shields.io/github/v/release/eapache/go-resiliency?logo=github) <br>
 go-resiliency has Resiliency patterns for golang. Based in part on Hystrix, Semian, and others.
 
