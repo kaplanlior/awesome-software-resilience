@@ -17,6 +17,9 @@ gobreaker is a circuit Breaker implemented in Go
 [go-resiliency](https://github.com/eapache/go-resiliency) ![Stars](https://img.shields.io/github/stars/eapache/go-resiliency) ![GitHub Latest Release)](https://img.shields.io/github/v/release/eapache/go-resiliency?logo=github) <br>
 go-resiliency has Resiliency patterns for golang. Based in part on Hystrix, Semian, and others.
 
+[retry-go](https://github.com/avast/retry-go) ![Stars](https://img.shields.io/github/stars/avast/retry-go) ![GitHub Latest Release)](https://img.shields.io/github/v/release/avast/retry-go?logo=github) <br>
+Retry-go is a simple library for retry mechanism.
+
 ### Java
 [failsafe](https://github.com/failsafe-lib/failsafe) ![Stars](https://img.shields.io/github/stars/failsafe-lib/failsafe) <br>
 Failsafe is a Fault tolerance and resilience patterns for the JVM. Failsafe is a lightweight, zero-dependency library for handling failures in Java 8+. It has a concise API for handling everyday use cases and the flexibility to handle everything else. Failsafe works by wrapping executable logic with one or more resilience policies, which can be combined and composed as needed.
