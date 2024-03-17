@@ -1,6 +1,13 @@
 # awesome-software-resilience
 Curated list of software resilience libraries and clients, making your application more robust while consuming 3rd party API &amp; services
 
+## Tools / Clients
+
+### Egress Proxy
+[Lunar](https://github.com/App-vNext/Polly) ![Stars](https://img.shields.io/github/stars/theLunarCompany/lunar) ![GitHub Latest Release)](https://img.shields.io/github/v/release/theLunarCompany/lunar?logo=github) <br>
+Lunar helps manage & scale your app traffic with API Egress Controls.
+
+
 ## Libraries
 
 ### C#
@@ -62,6 +69,3 @@ axios-retry is an Axios plugin that intercepts failed requests and retries them 
 
 [Cockatiel](https://github.com/connor4312/cockatiel) ![Stars](https://img.shields.io/github/stars/connor4312/cockatiel) ![GitHub Latest Release)](https://img.shields.io/github/v/release/connor4312/cockatiel?logo=github) <br>
 Cockatiel is a resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Polly
-
-## Tools / Clients
-
