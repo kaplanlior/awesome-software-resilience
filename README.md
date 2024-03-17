@@ -35,8 +35,12 @@ Resilience4j is a fault tolerance library designed for Java8 and functional prog
 Spring-retry provides declarative retry support for Spring applications. It is used in Spring Batch, Spring Integration, and others. Imperative retry is also supported for explicit usage.
 
 ### JavaScript
+[async-retry](https://github.com/vercel/async-retry) ![Stars](https://img.shields.io/github/stars/vercel/async-retry) ![GitHub Latest Release)](https://img.shields.io/github/v/release/vercel/async-retry?logo=github) <br>
+async-retry aim for retrying made simple, easy, and async.
+
 [Opossum](https://github.com/nodeshift/opossum) ![Stars](https://img.shields.io/github/stars/nodeshift/opossum) ![GitHub Latest Release)](https://img.shields.io/github/v/release/nodeshift/opossum?logo=github) <br>
 Opossum is a Node.js circuit breaker that executes asynchronous functions and monitors their execution status. When things start failing, opossum plays dead and fails fast. If you want, you can provide a fallback function to be executed when in the failure state.
+
 
 ### Python
 [Backoff](https://github.com/litl/backoff) ![Stars](https://img.shields.io/github/stars/litl/backoff) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/litl/backoff?logo=github) <br>
