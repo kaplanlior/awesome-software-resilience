@@ -17,8 +17,12 @@ gobreaker is a circuit Breaker implemented in Go
 [go-resiliency](https://github.com/eapache/go-resiliency) ![Stars](https://img.shields.io/github/stars/eapache/go-resiliency) ![GitHub Latest Release)](https://img.shields.io/github/v/release/eapache/go-resiliency?logo=github) <br>
 go-resiliency has Resiliency patterns for golang. Based in part on Hystrix, Semian, and others.
 
+[go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) ![Stars](https://img.shields.io/github/stars/hashicorp/go-retryablehttp) ![GitHub Latest Release)](https://img.shields.io/github/v/tag/hashicorp/go-retryablehttp?logo=github) <br>
+go-retryablehttp provides a familiar HTTP client interface with automatic retries and exponential backoff.
+
 [retry-go](https://github.com/avast/retry-go) ![Stars](https://img.shields.io/github/stars/avast/retry-go) ![GitHub Latest Release)](https://img.shields.io/github/v/release/avast/retry-go?logo=github) <br>
 Retry-go is a simple library for retry mechanism.
+
 
 ### Java
 [failsafe](https://github.com/failsafe-lib/failsafe) ![Stars](https://img.shields.io/github/stars/failsafe-lib/failsafe) <br>
